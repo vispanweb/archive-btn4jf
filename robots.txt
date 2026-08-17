@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://vispanweb.github.io/archive-btn4jf/sitemap.xml
